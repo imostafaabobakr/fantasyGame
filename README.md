@@ -31,8 +31,12 @@ Our game is to help our Jack to eat coins.
   4. condition of eating and generating coin
   5. condition of colliding with bomb
   6. conditions for loasing and winning
-- winScreen(): winning window and has 2 options ( 1. exit() when pressing E key 2. play again when pressing P key)
-- gameOverScreen() : losing window and has 2 options ( 1. exit() when pressing E key 2. play again when pressing P key) and dancing loser word.
+- winScreen(): winning window and has 2 options
+1. exit() when pressing E key 
+2. play again when pressing P key
+- gameOverScreen() : losing window , dancing "loser" word, and 2 options
+1. exit() when pressing E key 
+2. play again when pressing P key
 
 ## Program & Book
 We have used processing 3 program, with the aid of "Getting Started with Processing" book.
