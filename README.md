@@ -14,10 +14,19 @@ Our game is to help our Jack to eat coins.
 
 
 ## Game Windows
+
 1. **Start Window** : contains (game name - instructions) 
 2. **Game Window** : is the environment of the game and contains (Jack - Coin - Bomb - Score)
 3. **Winning Window** : a congratulation and options (play again - exit) 
 4. **Losing Window** : a game-over , same options (play again - exit), and a rotating tease (Loser) 
+
+## ScreenShots
+
+![screen1](https://user-images.githubusercontent.com/47760339/147873918-dfd7c14b-4dd3-4276-ae8e-b881735adb91.png)
+![screen2](https://user-images.githubusercontent.com/47760339/147873931-f8648802-be93-496f-aaec-fa35066d1d83.png)
+![screen3](https://user-images.githubusercontent.com/47760339/147873949-77671385-6cbc-4531-9b57-013ae68f138a.png)
+![screen4](https://user-images.githubusercontent.com/47760339/147873951-908528fe-0564-4c66-b3e5-380a76f40c16.png)
+
 
 ## Game Functions
 
@@ -50,5 +59,9 @@ We have used **processing 3** program, with the aid of **Getting Started with Pr
 - Chapter 8 (Functions): making and calling functions
 - Chapter 11 (Extend): 3D
 
-
+  ## Authors 
+   1. [Ahmed Samy](https://github.com/samyvic)
+   3. [Hasnaa Zaki]()
+   4. [Mahmoud Diab](https://github.com/mahmouddiab74)
+   5. [Mohamed Mahmoud Omar](https://github.com/mhmdomar)
 
