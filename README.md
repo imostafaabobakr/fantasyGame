@@ -34,7 +34,7 @@ Our game is to help our Jack to eat coins.
 - **winScreen()**: winning window and has 2 options
   1. exit() when pressing E key 
   2. play again when pressing P key
-- **gameOverScreen()** : losing window , dancing *loser* word, and 2 options
+- **gameOverScreen()** : losing window , **dancing loser word**, and 2 options
   1. exit() when pressing E key 
   2. play again when pressing P key
 
