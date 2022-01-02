@@ -6,6 +6,7 @@ In a parallel universe our hero (Jack) is searching for coins as it is his food.
 
 Our game is to help our Jack to eat coins.
 
+
 ##Main parts
 
 ---
