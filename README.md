@@ -13,11 +13,23 @@ Our game is to help our Jack to eat coins.
 4. Bomb: will explode if jack touches it
 
 
-## Windows
+## Game Windows
 1. Start Window: contains (game name - instructions) 
 2. Game Window: is the environment of the game and contains (Jack - Coin - Bomb - Score)
 3. Winning Window: a congratulation and options (play again - exit) 
 4. Losing Window: a game-over , same options (play again - exit), and a rotating tease (Loser) 
+
+### Tool
+We have used processing 3 program, with the aid of "Getting Started with Processing" book.
+
+### Useful Chapters 
+Chapter 3 (Draw): color - comments
+Chapter 4 (Variables): making variables
+Chapter 5 (Response): map - click - location
+Chapter 6 (Media): images - fonts
+Chapter 7 (Motion): speed and direction - random - translate, rotate
+Chapter 8 (Functions): making and calling functions
+Chapter 11 (Extend): 3D
 
 
 
