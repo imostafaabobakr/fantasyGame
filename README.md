@@ -19,10 +19,10 @@ Our game is to help our Jack to eat coins.
 3. Winning Window: a congratulation and options (play again - exit) 
 4. Losing Window: a game-over , same options (play again - exit), and a rotating tease (Loser) 
 
-### Tool
+## Program & Book
 We have used processing 3 program, with the aid of "Getting Started with Processing" book.
 
-### Useful Chapters 
+## Useful Chapters 
 - Chapter 3 (Draw): color - comments
 - Chapter 4 (Variables): making variables
 - Chapter 5 (Response): map - click - location
