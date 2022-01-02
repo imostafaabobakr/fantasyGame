@@ -23,13 +23,13 @@ Our game is to help our Jack to eat coins.
 We have used processing 3 program, with the aid of "Getting Started with Processing" book.
 
 ### Useful Chapters 
-Chapter 3 (Draw): color - comments
-Chapter 4 (Variables): making variables
-Chapter 5 (Response): map - click - location
-Chapter 6 (Media): images - fonts
-Chapter 7 (Motion): speed and direction - random - translate, rotate
-Chapter 8 (Functions): making and calling functions
-Chapter 11 (Extend): 3D
+- Chapter 3 (Draw): color - comments
+- Chapter 4 (Variables): making variables
+- Chapter 5 (Response): map - click - location
+- Chapter 6 (Media): images - fonts
+- Chapter 7 (Motion): speed and direction - random - translate, rotate
+- Chapter 8 (Functions): making and calling functions
+- Chapter 11 (Extend): 3D
 
 
 
