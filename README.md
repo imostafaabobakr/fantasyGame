@@ -39,7 +39,7 @@ Our game is to help Jack to eat coins.
   3. conditions of reaching the end of window 
   4. condition of eating and generating coin
   5. condition of colliding with bomb
-  6. conditions for loasing and winning
+  6. conditions for losing and winning
 - **winScreen()**: winning window and has 2 options
   1. exit() when pressing E key 
   2. play again when pressing P key
