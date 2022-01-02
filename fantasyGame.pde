@@ -132,7 +132,7 @@ void game(){
       gameOverScreen();
     }
     //condition for winning     
-    if(scor == 1){
+    if(scor == 10){
       winScreen();
     }
 }
