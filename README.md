@@ -2,7 +2,7 @@
 
 In a parallel universe our hero **(Jack)** is searching for coins as it is his food. His meal consists of 10 coins in order to be satisfied. Unfortunately, nothing is easy because he there is an explosive land mine **(bomb)** in his way which will kill him if he walked on it. 
 
-Our game is to help our Jack to eat coins.
+Our game is to help Jack to eat coins.
 
 
 ## Main parts
