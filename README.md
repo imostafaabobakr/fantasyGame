@@ -7,7 +7,7 @@ In a parallel universe our hero (Jack) is searching for coins as it is his food.
 Our game is to help our Jack to eat coins.
 
 
-##Main parts
+## Main parts
 
 
 1. Jack: walks by the keyboard arrows (up - right - down - left) 
@@ -16,7 +16,7 @@ Our game is to help our Jack to eat coins.
 4. Bomb: will explode if jack touches it
 
 
-##Windows
+## Windows
 
 
 
