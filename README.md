@@ -9,7 +9,6 @@ Our game is to help our Jack to eat coins.
 
 ##Main parts
 
----
 
 1. Jack: walks by the keyboard arrows (up - right - down - left) 
 2. Coin: is generated in random position each time jack eats one
@@ -19,7 +18,7 @@ Our game is to help our Jack to eat coins.
 
 ##Windows
 
----
+
 
 1. Start Window: contains (game name - instructions) 
 2. Game Window: is the environment of the game and contains (Jack - Coin - Bomb - Score)
